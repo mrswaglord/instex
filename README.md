@@ -8,7 +8,7 @@ To install and open Instex type the following commands in Termux
 
 
 
-apt update && pkg upgrade && pkg install python && pkg install git && git clone https://github.com/mrswaglord/instex && cd intex && chmod +x instex.py && python instex.py;
+apt update && pkg upgrade && pkg install python && pkg install git && git clone https://github.com/mrswaglord/instex && cd instex && chmod +x instex.py && python instex.py;
 
 
 
